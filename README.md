@@ -2,10 +2,15 @@
 
 ## Project Overview Video
 
-https://github.com/user-attachments/assets/project-overview.mp4
+<div align="center">
+  <video src="./project-overview.mp4" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+  <p><em>A quick 60-second overview of the Study Notes Summarizer skill</em></p>
+  <p><strong>Can't play the video?</strong> <a href="https://github.com/irshadahmadg33/studynotes-skill/raw/master/project-overview.mp4">Download it here</a></p>
+</div>
 
-*A quick 60-second overview of the Study Notes Summarizer skill for
-Claude Code*
+---
 
 ## Overview
 
