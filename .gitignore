@@ -1,0 +1,11 @@
+# Temporary Claude Code files
+tmpclaude-*-cwd
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
