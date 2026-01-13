@@ -1,14 +1,13 @@
 # Study Notes Summarizer Skill
 
-## Project Overview Video
+## 📹 Project Overview Video
 
-<div align="center">
-  <video src="./project-overview.mp4" width="100%" controls>
-    Your browser does not support the video tag.
-  </video>
-  <p><em>A quick 60-second overview of the Study Notes Summarizer skill</em></p>
-  <p><strong>Can't play the video?</strong> <a href="https://github.com/irshadahmadg33/studynotes-skill/raw/master/project-overview.mp4">Download it here</a></p>
-</div>
+> **Watch the 60-second project overview**
+>
+> 👉 **[Download and Watch Video (51.7 MB)](https://github.com/irshadahmadg33/studynotes-skill/raw/master/project-overview.mp4)**
+>
+> *Learn about the Study Notes Summarizer skill, its features, and how it
+> helps reduce reading time by creating intelligent document summaries.*
 
 ---
 
