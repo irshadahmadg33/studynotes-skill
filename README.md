@@ -4,7 +4,10 @@
 
 > **Watch the 60-second project overview**
 >
-> 👉 **[Download and Watch Video (51.7 MB)](https://github.com/irshadahmadg33/studynotes-skill/raw/master/project-overview.mp4)**
+> 👉 **[Watch on YouTube](https://youtu.be/jR-FI1DF-zcU)**
+>
+> *Or download and watch offline:*
+> [Download Video (51.7 MB)](https://github.com/irshadahmadg33/studynotes-skill/raw/master/project-overview.mp4)
 >
 > *Learn about the Study Notes Summarizer skill, its features, and how it
 > helps reduce reading time by creating intelligent document summaries.*
