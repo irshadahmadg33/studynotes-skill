@@ -11,7 +11,24 @@
       "Bash(powershell \"\\(Get-Content ''temp_summary_count.txt'' -Raw\\).Split\\('' \\\\t\\\\n\\\\r'', [StringSplitOptions]::RemoveEmptyEntries\\).Count\")",
       "Bash(ls:*)",
       "Bash(git init:*)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(where:*)",
+      "Bash(powershell \"Get-Command Get-PnpDevice -ErrorAction SilentlyContinue\")",
+      "Bash(start microsoft.windows.camera:)",
+      "Bash(powershell \"Get-ChildItem -Path \"\"$env:USERPROFILE\\\\Videos\\\\Camera Roll\"\" -Filter *.mp4 | Sort-Object LastWriteTime -Descending | Select-Object -First 1 | Format-List FullName, Length, LastWriteTime\")",
+      "Bash(powershell \"Get-ChildItem -Path \"\"$HOME\\\\Videos\\\\Camera Roll\"\" -Filter *.mp4 | Sort-Object LastWriteTime -Descending | Select-Object -First 1\")",
+      "Bash(powershell \"Get-ChildItem -Path ''C:\\\\Users\\\\DELL\\\\Videos'' -Recurse -Filter *.mp4 | Sort-Object LastWriteTime -Descending | Select-Object -First 3 | Format-Table Name, Length, LastWriteTime -AutoSize\")",
+      "Bash(powershell:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Bash(zip:*)",
+      "Bash(gh:*)",
+      "Bash(git branch:*)",
+      "Bash(pip install:*)",
+      "Bash(del:*)",
+      "Bash(claude skill install:*)",
+      "Skill(quiz-maker)"
     ]
   }
 }
